@@ -1,0 +1,1 @@
+MCU protocal \ I2C SPI CAN ETHERNET
